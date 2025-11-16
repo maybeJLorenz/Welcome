@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasmine Lorenz</h1>
-<h3 align="center">I'm a 4th year Technology & Information Management major @ UCSC. I'm passionate about system security, networks, and cloud infrastructure (mainly AWS).)</h3>
+<h3 align="center">I'm a 4th year Technology & Information Management major @ UCSC. I'm passionate about system security, networks, and cloud infrastructure (mainly AWS).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maybejlorenz&label=Profile%20views&color=0e75b6&style=flat" alt="maybejlorenz" /> </p>
 
